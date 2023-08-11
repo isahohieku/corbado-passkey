@@ -1,0 +1,10 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "api:install": "cd api && yarn install",
+    "frontend:install": "cd frontend && yarn install",
+    "api:start": "cd api && yarn dev:mac",
+    "frontend:start": "cd frontend && yarn start"
+  },
+  "dependencies": {}
+}
